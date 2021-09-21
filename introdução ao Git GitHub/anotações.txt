@@ -2,3 +2,19 @@
 
 link para download do Git:	https://git-scm.com/downloads
 O Git bash é um terminal extendido para otimizar o uso do Git.
+	
+		siglas importantes durante o uso do terminal:
+
+git status = Serve para saber o status que suas informações locais estão das informações do servidor.
+obs: quando se tem uma pasta fonte vermelha significa que a pasta ja foi identificada e esta diferente do commit anterior.
+
+git add . || git add -A = tem a mesma funcionalidade. Tem como funcionalidade enviar a pasta para o controle de versão
+adicionando todos os arquivos.
+obs:  Ao fazer isso incluimos a nova pasta para  o nosso servidor local.
+
+git commit -m "comentario entre aspas" = Com essa sigla nós estaremos criando um commit e versionando ele para a nuvem
+obs: Sempre ao digitar esse comando colocar comentarios que deixe claro  a momdificação feita no seu Commit
+
+git push origin main = com esse comando enviamos todos os documentos commitados terminal para a nuvem "GitHub".
+
+
