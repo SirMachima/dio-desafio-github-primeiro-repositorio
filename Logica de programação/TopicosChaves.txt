@@ -1,0 +1,5 @@
+				Topicos de logica de programação essenciais 
+
+
+- Importancia de ter comentarios eu seu codigo;
+- codigo limpo;
