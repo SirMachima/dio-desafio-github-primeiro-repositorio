@@ -1,0 +1,33 @@
+			Projetos Ageis SCRUM
+
+-Rapide na mudança e desembaraço;
+-Fazer coisas complexas de forma simples;
+-Equipe comprometida com os objetivos;
+-Maior valor para o cliente.
+
+Scrum é um framework de gerenciamento de projetos ágeis
+projeto que usa equipes pequenas multidisciplinares
+melhores resultados
+
+			Seus pilares são:
+
+1° Transparência
+2° Adaptação
+3° Inspeção
+
+- Conversar mais escrever menos;
+- Demonstração constantes aos usuarios, coletando feedbacks;
+- Requisitos que mudas conforme os feedbacks;
+- Aprender progressivamente com o uso do software.
+
+O SCRUM utiliza do MVP = Minimo produto viavel.
+
+Onde seus time são divididos em:
+ 
+P.O -> Product owner = Responsável por ditar como será o sotware é dele que vem  os feedbacks de acordo
+com os usuarios finais. Sempre será somente uma pessoa.
+
+Time Dev = Responsavel por conversar, desenhar e desenvolver o software solicitado pelo P.O.
+
+S.M -> Scrum Master = Age como facilitador, caso o P.O não saiba especificar/rxplicar o que o problema que o software
+tem que resolver, o Scrum Master faz a "Tradução" deixa tudo claro para o Time Dev.
