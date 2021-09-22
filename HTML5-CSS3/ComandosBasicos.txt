@@ -1,0 +1,1 @@
+link para download de um editor de texto VSCode: https://code.visualstudio.com/docs/?dv=win64user
