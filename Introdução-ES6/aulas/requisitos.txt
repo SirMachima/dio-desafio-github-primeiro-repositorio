@@ -1,8 +1,0 @@
-				REQUISITOS BASICOS PARA COMEÇAR O CURSO.
-
-1- Editor de textos. 						->	Eu estou usando o VScode.
-
-2- caso use o VScode é nescessario baixar o nodejs 		->	https://nodejs.org/en/
-
-3- Alguns plungins/extenções na propia ferramenta do VScode 	->	coderunner,
-

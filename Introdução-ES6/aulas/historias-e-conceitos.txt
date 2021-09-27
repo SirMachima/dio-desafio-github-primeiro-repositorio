@@ -1,3 +1,0 @@
- 
-
--Currying -> tecnica de transformar  um funçao com N parametros em apenas uma funçao que recebe um parametro que para cada parametro recebe uma função
