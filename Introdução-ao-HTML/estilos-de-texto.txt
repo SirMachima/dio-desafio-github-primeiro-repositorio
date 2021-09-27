@@ -1,0 +1,74 @@
+		Estilos de textos
+
+		FONT-FAMILY altera a fonte do nosso texto, podendo usar fontes da web ou instalar na nossa maquina
+
+	VERDAN
+
+#title {
+	font-family: verdana;  //nesse exemplo a gente está adicionando uma fonte.
+	}
+
+.post_title {
+	font-family: verdana, arial; //nesse exemplo estamos  adicionando duas fontes porque se a primeira não surgir a segunda vem como backup.
+
+	}
+
+		
+			FONT-SIZE Altera o tamanho do nosso texto.
+
+#title {
+	font-size: 30px;
+	}
+
+.post_title {
+	font-size: 18px;
+
+	}
+
+			FONT-STYLE Altera a aparencia do nosso texto.
+
+#title {
+	font-style: normal;
+	}
+
+.post_title {
+	font-size: italic;
+
+	}
+
+			FONT-WEIGHT Altera o peso do texto.
+
+#title {
+	font-weight: normal;
+	}
+
+.post_title {
+	font-weight: bold; obs:Bold coloca o texto em negrito.
+
+			
+			TEXT-TRANSFORM
+
+#title {
+	text-transform: uppercase; obs: Todos Caixa alta
+	}
+
+.post_title {
+	text-transform: lowercase; obs: todos caixa baixa
+
+	}
+.subtitle{
+	text-transform: capitalize; obs: todo inicio de palavra caixa alta
+	}
+			TEXT-DECORATION
+
+#title {
+	text-decoration: underline; obs: põe uma linha abaixo da palavra ou texto
+	}
+
+.post_title {
+	text-decoration: overline; obs:  põe uma linha acima da palavra ou texto 
+
+	}
+.subtitle{
+	text-decoration: line-through; obs:  põe uma linha no centro da palavra ou texto
+	}

@@ -1,11 +1,14 @@
 body{
-    background: rgb(173, 172, 172);
+    background: gainsboro;
+    font-family: Verdana;
 }
 .photo{
     border-radius: 100px;
     border: 1px solid rgb(32, 32, 44);
 }
-
+#title{
+    font-size: 50px;
+}
 #title, .subtitle, .post_title{
     color: rgb(32, 32, 44);
 }
@@ -23,7 +26,7 @@ body{
     margin-bottom: 15px;
 }
 .post_content {
-margin: 0;
-margin-bottom: 15px;
-border-radius: 5px;
+    margin: 0;
+    margin-bottom: 15px;
+    border-radius: 5px;
 }
