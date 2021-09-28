@@ -3,14 +3,14 @@
  *  */ 
 
 const user = {                                              // aqui estamos criando um objeto onde nele temos               
-    name: "Jefferson",                                      // 2 atributos  chamados name e last name
-    lastname:  "Felipe De Araujo Moraes"
+    name: 'Jefferson',                                      // 2 atributos  chamados name e last name
+    lastname:  'Felipe De Araujo Moraes'
 };
 
 function getUserWithFullName(user) {                // os trez pontos antes do o objeto user quer dizer
     return {                                        // que para cada propriedade do objeto user ele vai
         ...user,                                    // colocar dentro do objeto user 
-        fullname: "${user.name} ${user.lastname}"   // o comando abaixo é a mesma coisa que colocar 
+        fullname: '${user.name} ${user.lastname}'   // o comando abaixo é a mesma coisa que colocar 
                                                     // fullname = name+ " " +lastname      
 
     }

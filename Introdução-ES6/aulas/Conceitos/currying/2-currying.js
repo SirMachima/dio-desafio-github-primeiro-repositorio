@@ -7,8 +7,8 @@ function soma (a){          //declarando a função soma onde a função soma re
 }
 
 const soma2 = soma(2);   // aqui passsei a função para dentro de uma variavel chamada soma2
-                        // onde nela declaro o parametro da função soma, o parametro que eu quero
-                        // deixar fixo e coloquei 2 como parametro fixo ao fazer isso.
+                        // onde nela declaro o parametro da função soma, 
+                        //coloquei 2 como parametro fixo ao fazer isso.
                     
 console.log(soma2(2));  //aqui mostro na tela retorno da variavel soma2 que me retorna 2 e entre aspas
 console.log(soma2(3));  // o paramentro da função que esta dentro da função a, fazendo com o que o que
