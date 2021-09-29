@@ -1,0 +1,13 @@
+no JS existem 6 tipos são eles:
+
+String -> Representa textos 
+number -> numeros
+boolean -> true/false
+null -> null
+undefined -> quando a variavel existe mais ainda nao foi definida ou indefinido
+symbol -> permite te criar valores unicos.
+
+outros tipos:
+object -> objeto
+function -> tambem é um objeto só que permite que o nosso objeto seja chamado
+array -> tambem é um objeto ele tem relação com seus filhos .
